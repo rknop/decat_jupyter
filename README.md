@@ -1,2 +1,2 @@
 # decat_jupyter
-Demo jupyter scripts for using hte decat database
+Demo jupyter scripts for using the decat database
